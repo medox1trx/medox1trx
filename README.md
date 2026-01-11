@@ -8,6 +8,13 @@ My training covered both theoretical foundations and hands-on practice, includin
 <p align="center" style="color:#444; font-size:18px;">
   <b>Full Stack Developer — React.js | Laravel | MySQL | NoSQL</b>
 </p>
+<!-- Animated Intro -->
+<h3 align="center">
+  <img 
+       src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=900&color=D8C9A8&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+MySQL+%7C+NoSQL"
+       alt="Typing Animation"
+  />
+</h3>
 
 <!-- Snake Game -->
 <picture>
