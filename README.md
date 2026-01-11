@@ -66,6 +66,11 @@ My training covered both theoretical foundations and hands-on practice, includin
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+## 🌍 Languages
+![Arabic](https://img.shields.io/badge/Arabic-Native-black?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Fluent-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-red?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TRX-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TRX-01&theme=dark&hide_border=false)<br/>
