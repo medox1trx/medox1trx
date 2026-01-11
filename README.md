@@ -5,14 +5,10 @@ Throughout these 2 years of intensive learning, I worked on multiple academic an
 
 My training covered both theoretical foundations and hands-on practice, including real-world scenarios such as authentication systems, CRUD applications, dashboards, and dynamic web platforms.
 
+<!-- Typing text -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-      <img 
-       src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=900&color=D8C9A8&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+MySQL+%7C+NoSQL"
-       alt="Typing Animation"
-  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=7C0CBF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+!;Turning+ideas+into+real+web+apps+;Learning+Laravel%2C+React+%26+Modern+Web+Tech;Code.+Learn.+Improve.;Passionate+about+clean+code+%26+modern+UI" alt="Typing SVG" /></a>
 </p>
-
 
 <!-- Snake Game -->
 <picture>
