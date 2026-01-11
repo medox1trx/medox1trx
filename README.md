@@ -5,6 +5,12 @@ Throughout these 2 years of intensive learning, I worked on multiple academic an
 
 My training covered both theoretical foundations and hands-on practice, including real-world scenarios such as authentication systems, CRUD applications, dashboards, and dynamic web platforms.
 
+<!-- Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_g1___u) 
