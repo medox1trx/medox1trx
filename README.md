@@ -68,8 +68,8 @@ My training covered both theoretical foundations and hands-on practice, includin
 
 ## 🌍 Languages
 ![Arabic](https://img.shields.io/badge/Arabic-Native-black?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Fluent-blue?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate-red?style=for-the-badge)
+![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1-red?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TRX-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
