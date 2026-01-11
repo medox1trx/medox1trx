@@ -5,6 +5,9 @@ Throughout these 2 years of intensive learning, I worked on multiple academic an
 
 My training covered both theoretical foundations and hands-on practice, including real-world scenarios such as authentication systems, CRUD applications, dashboards, and dynamic web platforms.
 
+<p align="center" style="color:#444; font-size:18px;">
+  <b>Full Stack Developer — React.js | Laravel | MySQL | NoSQL</b>
+</p>
 
 <!-- Snake Game -->
 <picture>
