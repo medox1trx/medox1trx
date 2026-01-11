@@ -7,7 +7,7 @@ My training covered both theoretical foundations and hands-on practice, includin
 
 <!-- Typing text -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=7C0CBF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+!;Turning+ideas+into+real+web+apps+;Code.+Learn.+Improve.;Passionate+about+clean+code+%26+modern+UI" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=7C0CBF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+!;Turning+ideas+into+real+web+apps+;Code.+Learn.+Improve." alt="Typing SVG" /></a>
 </p>
 
 <!-- Snake Game -->
