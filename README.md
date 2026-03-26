@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/d8/71/38/d87138e1de8f51051e56e6cbac8bdd84.jpg" alt="banner" width="100%"/>
+</p>
 # 💫 About Me:
 I’m a Web Full Stack Developer, with 2 years of academic and practical training in web development. During my studies, I focused on building complete web applications, from database design to user interfaces, using modern and industry-relevant technologies. 
 
