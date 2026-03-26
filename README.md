@@ -5,7 +5,7 @@ Throughout these 2 years of intensive learning, I worked on multiple academic an
 
 My training covered both theoretical foundations and hands-on practice, including real-world scenarios such as authentication systems, CRUD applications, dashboards, and dynamic web platforms.
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/d8/71/38/d87138e1de8f51051e56e6cbac8bdd84.jpg" alt="banner" height="70%" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/d8/71/38/d87138e1de8f51051e56e6cbac8bdd84.jpg" height="300"/>
 </p>
 <!-- Typing text -->
 <p align="center">
