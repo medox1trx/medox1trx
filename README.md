@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/d8/71/38/d87138e1de8f51051e56e6cbac8bdd84.jpg" alt="banner" width="100%"/>
-</p>
 # 💫 About Me:
 I’m a Web Full Stack Developer, with 2 years of academic and practical training in web development. During my studies, I focused on building complete web applications, from database design to user interfaces, using modern and industry-relevant technologies. 
 
 Throughout these 2 years of intensive learning, I worked on multiple academic and personal projects that helped me strengthen my skills in frontend and backend development, code organization, problem-solving, and best development practices. I enjoy transforming ideas into functional, clean, and efficient web solutions.
 
 My training covered both theoretical foundations and hands-on practice, including real-world scenarios such as authentication systems, CRUD applications, dashboards, and dynamic web platforms.
-
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/d8/71/38/d87138e1de8f51051e56e6cbac8bdd84.jpg" alt="banner" height="70%" width="100%"/>
+</p>
 <!-- Typing text -->
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=7C0CBF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+!;Turning+ideas+into+real+web+apps+;Code.+Learn.+Improve." alt="Typing SVG" /></a>
